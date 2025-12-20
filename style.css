@@ -1,0 +1,39 @@
+header{
+    height: 10vh;
+    width:99vw;
+    display: flex;
+     
+}
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#location:hover{
+    color: rgb(18, 90, 24);
+    
+
+}
+
+.content-column-1{
+    font-size: 23px;
+    margin-left: 2.5vw;
+    height: 2.5vh;
+   
+}
+
+.food-combo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4vw;
+}
+
+@media screen and (max-width: 1000px) {
+    .section{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
