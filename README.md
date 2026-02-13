@@ -14,7 +14,7 @@
 ## 🌟 Live Demo
 
 🔗 **View Project:**  
-👉 https://starbucks-clone-weld.vercel.app/   <!-- Replace if needed -->
+👉 https://starbucks-clone-weld.vercel.app/   
 
 ---
 
