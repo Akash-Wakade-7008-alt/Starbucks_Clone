@@ -29,8 +29,6 @@ This is not just another clone — it is a **portfolio-grade project** built to 
 
 ## 👉 https://starbucks-clone-weld.vercel.app/
 
-_(Replace if your link is different)_
-
 ---
 
 # 🖼️ Preview
@@ -167,7 +165,6 @@ Open **index.html** in your browser.
   </a>
 </p>
 
-
 ---
 
 # ⭐ If This Project Impressed You...
@@ -175,4 +172,3 @@ Open **index.html** in your browser.
 <p align="center">
 Give it a ⭐ on GitHub — it helps more than you think!
 </p>
-
