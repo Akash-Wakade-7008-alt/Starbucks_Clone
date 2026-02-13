@@ -155,7 +155,7 @@ Open **index.html** in your browser.
 👉 https://github.com/Akash-Wakade-7008-alt  
 
 💼 **LinkedIn**  
-👉 in/akash-wakade-08b8412b2
+👉 *in/akash-wakade-08b8412b2*
 
 ---
 
