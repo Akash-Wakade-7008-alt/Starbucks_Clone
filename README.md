@@ -69,7 +69,6 @@ This project focuses on **engineering the layout like a real product.**
 ✅ Component-style thinking  
 ✅ Strong UI polish  
 
-👉 Exactly what recruiters want to see from frontend developers.
 
 ---
 
@@ -156,7 +155,7 @@ Open **index.html** in your browser.
 👉 https://github.com/Akash-Wakade-7008-alt  
 
 💼 **LinkedIn**  
-👉 *(Add this — strongly recommended for recruiter visibility)*
+👉 in/akash-wakade-08b8412b2
 
 ---
 
