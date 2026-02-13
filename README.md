@@ -28,13 +28,15 @@ This is not just another clone — it is a **portfolio-grade project** built to 
 # 🌐 Live Experience
 
 ## 👉 https://starbucks-clone-weld.vercel.app/
-*(Replace if your link is different)*
+
+_(Replace if your link is different)_
 
 ---
 
 # 🖼️ Preview
 
 ## 🏠 Hero Section
+
 <p align="center">
   <img src="./images/preview-1.png" width="95%" alt="Hero Preview"/>
 </p>
@@ -42,6 +44,7 @@ This is not just another clone — it is a **portfolio-grade project** built to 
 ---
 
 ## 🍂 Seasonal Showcase
+
 <p align="center">
   <img src="./images/preview-2.png" width="95%" alt="Seasonal Preview"/>
 </p>
@@ -49,6 +52,7 @@ This is not just another clone — it is a **portfolio-grade project** built to 
 ---
 
 ## 🍰 Menu Pairings
+
 <p align="center">
   <img src="./images/preview-3.png" width="95%" alt="Menu Preview"/>
 </p>
@@ -67,35 +71,36 @@ This project focuses on **engineering the layout like a real product.**
 ✅ Real-world landing page structure  
 ✅ Clean CSS architecture  
 ✅ Component-style thinking  
-✅ Strong UI polish  
-
+✅ Strong UI polish
 
 ---
 
 # 🧠 Skills Demonstrated
 
 ### 🎨 Frontend Engineering
-- Semantic HTML5  
-- Advanced CSS3  
-- Flexbox  
-- CSS Grid  
-- Layout Systems  
+
+- Semantic HTML5
+- Advanced CSS3
+- Flexbox
+- CSS Grid
+- Layout Systems
 
 ### 🎯 Design Intelligence
-- Visual hierarchy  
-- Color balance  
-- Spacing discipline  
-- UX awareness  
+
+- Visual hierarchy
+- Color balance
+- Spacing discipline
+- UX awareness
 
 ---
 
 # 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|------------|
-| **HTML5** | Structure |
-| **CSS3** | Styling & Layout |
-| **Vercel** | Deployment |
+| Technology | Purpose          |
+| ---------- | ---------------- |
+| **HTML5**  | Structure        |
+| **CSS3**   | Styling & Layout |
+| **Vercel** | Deployment       |
 
 ---
 
@@ -131,7 +136,7 @@ Open **index.html** in your browser.
 ✔ Improved UI judgment  
 ✔ Practiced scalable CSS  
 ✔ Strengthened layout engineering  
-✔ Built portfolio-level confidence  
+✔ Built portfolio-level confidence
 
 ---
 
@@ -142,29 +147,26 @@ Open **index.html** in your browser.
 ⭐ Micro-animations  
 ⭐ React conversion  
 ⭐ Performance optimization  
-⭐ Dark mode  
+⭐ Dark mode
 
 ---
 
 # 👨‍💻 Developer
 
 ## **Akash Wakade**
-🚀 Aspiring Software Engineer | Frontend Developer | Future GSoC Contributor  
 
-🔗 **GitHub**  
-👉 https://github.com/Akash-Wakade-7008-alt  
+🚀 Aspiring Software Engineer | Frontend Developer | Future GSoC Contributor
 
-💼 **LinkedIn**  
-👉 [*(in/akash-wakade-08b8412b2)*](https://www.linkedin.com/in/akash-wakade-08b8412b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-# 📊 Repo Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Wakade-7008-alt&show_icons=true&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Wakade-7008-alt"/>
+<p align="left">
+  <a href="https://github.com/Akash-Wakade-7008-alt">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/akash-wakade-08b8412b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Wakade-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
+
 
 ---
 
@@ -174,17 +176,3 @@ Open **index.html** in your browser.
 Give it a ⭐ on GitHub — it helps more than you think!
 </p>
 
----
-
-# ⚠️ Disclaimer
-
-This project is created strictly for **educational purposes**.
-
-Starbucks is a registered trademark of Starbucks Corporation.  
-This clone is **not affiliated with, endorsed, or sponsored** by Starbucks.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=006241&height=150&section=footer"/>
-</p>
